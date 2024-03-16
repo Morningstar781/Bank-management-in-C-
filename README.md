@@ -1,1 +1,1 @@
-# Bank-management-in-C-
+This is a bank management project which offers multiple services to the user. The interface of the project is based on the admin who receives instructions from the user. Some of the services offered by the project are creation of account, depositing of cash to the account, withdrawing of cash from the account. The admin can also search for accounts in the system at ease.This project is made in C++ in the most efficient way possible.
